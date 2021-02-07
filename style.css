@@ -1,0 +1,24 @@
+.card {
+    cursor: pointer;
+  }
+  .custom-rounded {
+    border-radius: 15px;
+    background-color: #F8F7F5 !important;
+  }
+
+  .navbar-brand img {
+      width: 100px;
+  }
+
+  input[type="search"] {
+      border-radius: 40px;
+      padding: 10px;
+  }
+
+  .search-button {
+      position: absolute;
+      right: 0;
+      background-color: white;
+      padding: 10px;
+      border-radius: 40px;
+  }
